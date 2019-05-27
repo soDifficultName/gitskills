@@ -8,4 +8,4 @@ feature,fix this bug
 
 dev
 
-2
+2,dev
