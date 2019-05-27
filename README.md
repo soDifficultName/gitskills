@@ -4,6 +4,6 @@ creating
 
 Creating a new branch is quick AND simple.
 
-feature1
+feature,fix this bug
 
 dev
